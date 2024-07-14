@@ -1,2 +1,3 @@
 # Logisim-Binaire-code-7-segment-decoder
-Verandert 4 bits in hexadecimaal 7 segment
+
+Turns 4 bits into hexadecimal 7 segment display thing
